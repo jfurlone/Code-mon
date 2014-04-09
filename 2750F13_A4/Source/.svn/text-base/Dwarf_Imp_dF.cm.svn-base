@@ -1,0 +1,11 @@
+begin@2;
+DAT #0,#0;
+MOV -1,-2;
+SUB 3,4;
+FRK -2;
+ADD #4,3;
+MOV 2,@2;
+JMP -2;
+DAT #0,#0;
+
+

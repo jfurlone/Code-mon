@@ -1,0 +1,61 @@
+------- HELP FILE -------
+~~~~~~~ INFO ~~~~~~~
+Main Menu is the root of the program.
+Train brings up train frame.
+Fight brings up fight frame.
+About brings up the readMe.
+Quit exits program.
+
+Train Frame
+Allows for user to assemble a codemon
+Each Menu item is self explanatory
+
+Fight Frame 
+Allows for user to fight codemon
+Each Menu item is self explanatory as well
+
+~~~ KEY BINDINGS ~~~
+**Fight Frame**
+
+Config Menu: Mnemonic = 'c'
+Items:
+Source Directory --> ctrl-D
+Codemon Directory --> ctrl-alt-D
+Reports Directory --> ctrl-R
+Iteration --> ctrl-I
+Vs --> ctrl-V
+
+Reports Menu: Mnemonic = 'r'
+Items:
+View --> ctrl-V
+Delete --> ctrl-E
+Fetch All --> ctrl-F
+Visualize --> ctrl-Y
+
+Help Menu: Mnemonic = 'h'
+Items:
+Help Me --> ctrl-H
+
+**Train Frame**
+
+File Menu: Mnemonic = 'f'
+Items:
+New --> ctrl-N
+Open --> ctrl-O
+Save --> ctrl-S
+SaveAs --> ctrl-alt-S
+Quit --> ctrl-Q
+
+Build Menu: Mnemonic = 'b'
+Items:
+Assemble --> ctrl-A
+Assemble and Launch --> ctrl-alt-A
+
+Config Menu: Mnemonic = 'c'
+Items:
+Source Directory --> ctrl-D
+Codemon Directory --> ctrl-alt-D
+
+Help Menu: Mnemonic = 'h'
+Items:
+Help Me --> ctrl-H
